@@ -1,0 +1,1 @@
+A theme for the emerald window manager.
